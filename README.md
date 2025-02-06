@@ -1,6 +1,7 @@
 # Projet-S6
-
+Objectif:
 Horloge tournante à persistence rétinienne
+Simuler une horloge analogique dynamique
 
 ## Récapitulatif de la séance 1
 1. Dimension de notre horloge (46 cm de diamètre; 3 colonnes de 12 leds/neopixel codée individuellement et de couleur différentes)
