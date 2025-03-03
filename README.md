@@ -38,7 +38,7 @@ Intensité des led fixe. Variation des la barrette en fonction de la position.
 2. essayer de coder une barre de LED entierement allumées et la faire tourner jusqu'à qu'il n'y a plus de scitimment
 
 ## Récapitulatif de la séance 2
-1. Conception du premier prototype du circuit imprimé
+1. Conception du premier prototype de PCB
 2. Retour sur l'idée des trois colonnes de leds. Juste 1 de 11 LEDs => commande séparée de chacune des LEDs
 3. Début de l'attribution des pattes du microcontrolleur + début du code
 4. Premier essai de faire fonctionner le moteur --> Pas concluant: desaxé et inertie trop importante. 
@@ -47,7 +47,7 @@ Intensité des led fixe. Variation des la barrette en fonction de la position.
 
 ## Objectif de la séance 3
 1. Trouver le bon mudule RTC compatible avec le micocontroleur choisi 
-2. Réaliser un premier circuit imprimé sur Kicad
+2. Réaliser un premier PCB sur Kicad
 3. Finaliser le code d'au moins une LED
 4. Realiser un premier test en faisant touner une barre de LEDs/1 LED allumée jusqu'à plus aucun scintillemment avec le moteur 
 
