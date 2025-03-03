@@ -4,6 +4,36 @@
 Horloge tournante à persistence rétinienne
 
 Simuler une horloge analogique dynamique
+## Planning prévisionnel
+
+### Semaine 1 : Etude et conception
+
+Définir les objectif (taille, résolution, affichage prévu):
+
+- Affichage avec les 3 aiguilles
+
+Choix des composantes (STM32, moteur, alimentation)  
+Réaliser schéma électronique et mécanique   
+Déterminer la fréquence de rotation optimale
+
+### Semaine 2 : Première prototypage 
+
+Une barrette de douze leds et le code sur le sTM32  
+Branchement et alimentation puis …  
+Pour faire une test avec l’ancien plaquette/moteur du projet
+
+### Semaine 3 : Achats et fabrication du support
+
+Acheter les composants et matériaux (Moteurs, Leds, Microprocesseur…)  
+Concevoir le support du bras rotatif (PCB)  
+Monter le moteur et le bras sur une base stable  
+Ajouter un contrepoids pour limiter les vibrations
+
+### Semaine 4-5 : Assemblage électronique 
+
+### Semaine 6-7 : Programmation et Tests
+
+### Semaine 8 : Optimisation et finalisation
 
 ## Cahier des charges
 
