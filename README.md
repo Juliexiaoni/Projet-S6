@@ -45,6 +45,9 @@ Intensité des led fixe. Variation des la barrette en fonction de la position.
     
 ### Pour recevoir l'heure en temps réel il faut un module RTC 
 
+## ATTENTION:
+### On est très en retard par rapport au planning initial.
+
 ## Objectif de la séance 3
 1. Trouver le bon mudule RTC compatible avec le micocontroleur choisi 
 2. Réaliser un premier PCB sur Kicad
