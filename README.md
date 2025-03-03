@@ -39,9 +39,18 @@ Intensité des led fixe. Variation des la barrette en fonction de la position.
 
 ## Récapitulatif de la séance 2
 1. Conception du premier prototype du circuit imprimé
-2. Retour ssur l'idée des trois barretes de leds. Juste 1 
-3. Début de l'attribution des pattes du microcontrolleur + début du code 
--Pour recevoir l'heur en temps réel il faut un module RTC-
+2. Retour sur l'idée des trois colonnes de leds. Juste 1 de 11 LEDs => commande séparée de chacune des LEDs
+3. Début de l'attribution des pattes du microcontrolleur + début du code
+4. Premier essai de faire fonctionner le moteur --> Pas concluant: desaxé et inertie trop importante. 
+    
+--Pour recevoir l'heure en temps réel il faut un module RTC--
+
+## Objectif de la séance 3
+1. Trouver le bon mudule RTC compatible avec le micocontroleur choisi 
+2. Réaliser un premier circuit imprimé sur Kicad
+3. Finaliser le code d'au moins une LED
+4. Realiser un premier test en faisant touner une barre de LEDs/1 LED allumée jusqu'à plus aucun scintillemment avec le moteur 
+
 
 ### Contacts
 
