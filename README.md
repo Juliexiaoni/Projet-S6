@@ -43,7 +43,7 @@ Intensité des led fixe. Variation des la barrette en fonction de la position.
 3. Début de l'attribution des pattes du microcontrolleur + début du code
 4. Premier essai de faire fonctionner le moteur --> Pas concluant: desaxé et inertie trop importante. 
     
-- Pour recevoir l'heure en temps réel il faut un module RTC -
+* Pour recevoir l'heure en temps réel il faut un module RTC 
 
 ## Objectif de la séance 3
 1. Trouver le bon mudule RTC compatible avec le micocontroleur choisi 
