@@ -35,8 +35,13 @@ Intensité des led fixe. Variation des la barrette en fonction de la position.
 
 ## Objectif de la séance 2
 1. realiser un premier test de frequence
-2. essayer de coder une barre de LED entierement allumées et la faire tourner jusqu'à qu'il n'y a plus de scitimment 
+2. essayer de coder une barre de LED entierement allumées et la faire tourner jusqu'à qu'il n'y a plus de scitimment
 
+## Récapitulatif de la séance 2
+1. Conception du premier prototype du circuit imprimé
+2. Retour ssur l'idée des trois barretes de leds. Juste 1 
+3. Début de l'attribution des pattes du microcontrolleur + début du code 
+-Pour recevoir l'heur en temps réel il faut un module RTC-
 
 ### Contacts
 
