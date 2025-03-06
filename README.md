@@ -94,10 +94,15 @@ Ajouter un contrepoids pour limiter les vibrations
 ### On est très en retard par rapport au planning initial.
 
 ## Objectif de la séance 3
-1. Trouver le bon mudule RTC compatible avec le micocontroleur choisi 
+1. Trouver le bon module RTC compatible avec le micocontroleur choisi <-- on a plutôt chercher à comprendre le module RTC
 2. Réaliser un premier PCB sur Kicad
 3. Finaliser le code d'au moins une LED
-4. Realiser un premier test en faisant touner une barre de LEDs/1 LED allumée jusqu'à plus aucun scintillemment avec le moteur 
+4. Realiser un premier test en faisant touner une barre de LEDs/1 LED allumée jusqu'à plus aucun scintillemment avec le moteur
+
+## Récapitulatif de la séance 3
+1. Test avec les petits moteurs
+2. Changement de STM32F303K8 --> STM32G431KBT6
+3. DEbut du schématic de Kicad avec la STM 32 adaptée
 
 
 ### Contacts
