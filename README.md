@@ -53,16 +53,16 @@ Ajouter un contrepoids pour limiter les vibrations
 
 ### Tableau 
 
-| Fonction | Critère | Niveau | Commentaires  | Qui s’en charge principalement |
+| Fonction | Critère | Niveau | Commentaires  | Qui s’en charge principalement | | Avancement |
 | :---- | :---- | :---- | :---- | :---- |
 | Mouvement le la barre de LED | Fréquence de rotation ωLED | \< 20 ms soit  \>50 Hz |  |  |
-|  | Contact de la barre des LED’s au support | Fixe. Aucun angle de roulis ou tangage  |  |  |
-|  | Axe de rotation | l’axe x; mouvement plan |  |  |
+|  | Contact de la barre des LED’s au support | Fixe. Aucun angle de roulis ou tangage  |  |  | | fait |
+|  | Axe de rotation | l’axe x; mouvement plan |  |  | | fait |
 |  | Fixation de la barre au support  | Liaison cylindre fixé |  |  |
 |  | Alimentation de la barre | 3.3V → pile 9V | L'entrée peut supporter jusqu’à 12 V |  |
 |  | Codage des LED’s | Langage C valable pour STM32 |  | Julie |
 | Moteur | Fixation du moteur au support  |  |  |  |
-|  | Transmission ωmoteur à ωLED  |  | Idéalement aucune pertes |  |
+|  | Transmission ωmoteur à ωLED  |  | Idéalement aucune pertes |  | | fait |
 |  | Vitesse de rotation | Constante, \>3000 rpm |  |  |
 | Donner l’heure  | Synchronisation des mouvements des aiguilles en fonction de l’heure  | À la seconde près  OU si on aime les défis à la ms près | Existe des modules dont le RTC | Laure |
 |  | Affiche des aiguilles | 3 aiguilles  |  |  |
@@ -91,7 +91,7 @@ Ajouter un contrepoids pour limiter les vibrations
 ### Pour recevoir l'heure en temps réel il faut un module RTC 
 
 
-## Objectif de la séance 3
+## Objectifs de la séance 3
 1. Trouver le bon module RTC compatible avec le micocontroleur choisi <-- on a plutôt chercher à comprendre le module RTC
 2. Réaliser un premier PCB sur Kicad
 3. Finaliser le code d'au moins une LED
@@ -100,10 +100,23 @@ Ajouter un contrepoids pour limiter les vibrations
 ## Récapitulatif de la séance 3
 1. Test avec les petits moteurs
 2. Changement de STM32F303K8 --> STM32G431KBT6
-3. DEbut du schématic de Kicad avec la STM 32 adaptée
+3. Début du schématic de Kicad avec la STM 32 adaptée
 
-## Objectif de la séance 4
-1. ...
+## Objectifs de la séance 4
+1. Avancer sur le prototypes des LED
+2. Avancer sur le code
+
+## Récapitulatif de la séance 4
+1. Prototype de la barre des LED fini
+2. Premier essaie du système {moteur + barre de LED} => tourne très bien à ~ 6V mais beaucoups de vibrations
+4. Test du code : problème d'IDE
+5. Poursuite du schématic de Kicad 
+
+## Objectifs de la séance 5
+1. Finaliser le code pour qu'il soit fonctionnel
+2. Avoir le upport pour le moteur
+3. taille des trous de fixation du moteur
+4. Finalisation du PCB
 
 ## Ressources 
 https://m.youtube.com/watch?v=QOkp9amAs68
