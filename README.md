@@ -62,7 +62,7 @@ Ajouter un contrepoids pour limiter les vibrations
 |  | Alimentation de la barre | 3.3V → pile 9V | L'entrée peut supporter jusqu’à 12 V |  |  |
 |  | Codage des LED’s | Langage C valable pour STM32 |  | Julie |  |
 | Moteur | Fixation du moteur au support  |  |  |  |  |
-|  | Transmission ωmoteur à ωLED  |  |  | Idéalement aucune pertes |  | fait |
+|  | Transmission ωmoteur à ωLED  |  | Idéalement aucune pertes |  | fait |
 |  | Vitesse de rotation | Constante, \>3000 rpm |  |  |  |  |
 | Donner l’heure  | Synchronisation des mouvements des aiguilles en fonction de l’heure  | À la seconde près  OU si on aime les défis à la ms près | Existe des modules dont le RTC | Laure |  |
 |  | Affiche des aiguilles | 3 aiguilles  |  |  |  |  |
