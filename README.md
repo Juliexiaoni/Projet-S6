@@ -53,7 +53,7 @@ Ajouter un contrepoids pour limiter les vibrations
 
 ### Tableau 
 
-| Fonction | Critère | Niveau | Commentaires  | Qui s’en charge principalement | Avancement |
+| Fonction | Critère | Niveau | Commentaires  | Qui s’en charge principalement | 
 | :---- | :---- | :---- | :---- | :---- |
 | Mouvement le la barre de LED | Fréquence de rotation ωLED | \< 20 ms soit  \>50 Hz |  |  |  |
 |  | Contact de la barre des LED’s au support | Fixe. Aucun angle de roulis ou tangage  |  |  | fait |
