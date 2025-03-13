@@ -53,22 +53,22 @@ Ajouter un contrepoids pour limiter les vibrations
 
 ### Tableau 
 
-| Fonction | Critère | Niveau | Commentaires  | Qui s’en charge principalement | | Avancement |
+| Fonction | Critère | Niveau | Commentaires  | Qui s’en charge principalement | Avancement |
 | :---- | :---- | :---- | :---- | :---- |
-| Mouvement le la barre de LED | Fréquence de rotation ωLED | \< 20 ms soit  \>50 Hz |  |  |
-|  | Contact de la barre des LED’s au support | Fixe. Aucun angle de roulis ou tangage  |  |  | | fait |
-|  | Axe de rotation | l’axe x; mouvement plan |  |  | | fait |
-|  | Fixation de la barre au support  | Liaison cylindre fixé |  |  |
-|  | Alimentation de la barre | 3.3V → pile 9V | L'entrée peut supporter jusqu’à 12 V |  |
-|  | Codage des LED’s | Langage C valable pour STM32 |  | Julie |
-| Moteur | Fixation du moteur au support  |  |  |  |
-|  | Transmission ωmoteur à ωLED  |  | Idéalement aucune pertes |  | | fait |
-|  | Vitesse de rotation | Constante, \>3000 rpm |  |  |
-| Donner l’heure  | Synchronisation des mouvements des aiguilles en fonction de l’heure  | À la seconde près  OU si on aime les défis à la ms près | Existe des modules dont le RTC | Laure |
-|  | Affiche des aiguilles | 3 aiguilles  |  |  |
-| Confort visuel | Fréquence de rotation assez élevée pour ne plus avoir de scintillement  | \>50Hz |  |  |
-|  | Intensité des LEDs  | Fixe, indice UGR\<18 | C’est du superflu |  |
-| Dimensions  |  | À ajuster en fonction des autres élements | Optimiser l’espace un maximum |  |
+| Mouvement le la barre de LED | Fréquence de rotation ωLED | \< 20 ms soit  \>50 Hz |  |  |  |
+|  | Contact de la barre des LED’s au support | Fixe. Aucun angle de roulis ou tangage  |  |  | fait |
+|  | Axe de rotation | l’axe x; mouvement plan |  |  | fait |
+|  | Fixation de la barre au support  | Liaison cylindre fixé |  |  |  |
+|  | Alimentation de la barre | 3.3V → pile 9V | L'entrée peut supporter jusqu’à 12 V |  |  |
+|  | Codage des LED’s | Langage C valable pour STM32 |  | Julie |  |
+| Moteur | Fixation du moteur au support  |  |  |  |  |
+|  | Transmission ωmoteur à ωLED  |  |  | Idéalement aucune pertes |  | fait |
+|  | Vitesse de rotation | Constante, \>3000 rpm |  |  |  |  |
+| Donner l’heure  | Synchronisation des mouvements des aiguilles en fonction de l’heure  | À la seconde près  OU si on aime les défis à la ms près | Existe des modules dont le RTC | Laure |  |
+|  | Affiche des aiguilles | 3 aiguilles  |  |  |  |  |
+| Confort visuel | Fréquence de rotation assez élevée pour ne plus avoir de scintillement  | \>50Hz |  |  |  |
+|  | Intensité des LEDs  | Fixe, indice UGR\<18 | C’est du superflu |  |  |
+| Dimensions  |  | À ajuster en fonction des autres élements | Optimiser l’espace un maximum |  |  |
 
 ## Récapitulatif de la séance 1
 1. Dimension de notre horloge (20 cm de diamètre; 3 colonnes de 12 leds en // codée individuellement et de couleur différentes)
