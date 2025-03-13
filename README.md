@@ -121,6 +121,7 @@ Ajouter un contrepoids pour limiter les vibrations
 
 ## Ressources 
 https://m.youtube.com/watch?v=QOkp9amAs68
+https://wiki.st.com/stm32mcu/wiki/Getting_started_with_RTC
 
 
 ### Contacts
