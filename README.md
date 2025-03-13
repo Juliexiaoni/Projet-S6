@@ -53,8 +53,8 @@ Ajouter un contrepoids pour limiter les vibrations
 
 ### Tableau 
 
-| Fonction | Critère | Niveau | Commentaires  | Qui s’en charge principalement | 
-| :---- | :---- | :---- | :---- | :---- |
+| Fonction | Critère | Niveau | Commentaires  | Qui s’en charge principalement | Avancement |
+| :---- | :---- | :---- | :---- | :---- | :----|
 | Mouvement le la barre de LED | Fréquence de rotation ωLED | \< 20 ms soit  \>50 Hz |  |  |  |
 |  | Contact de la barre des LED’s au support | Fixe. Aucun angle de roulis ou tangage  |  |  | fait |
 |  | Axe de rotation | l’axe x; mouvement plan |  |  | fait |
@@ -105,6 +105,7 @@ Ajouter un contrepoids pour limiter les vibrations
 ## Objectifs de la séance 4
 1. Avancer sur le prototypes des LED
 2. Avancer sur le code
+3. Continuer le PCB
 
 ## Récapitulatif de la séance 4
 1. Prototype de la barre des LED fini
