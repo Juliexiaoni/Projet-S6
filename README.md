@@ -90,8 +90,6 @@ Ajouter un contrepoids pour limiter les vibrations
     
 ### Pour recevoir l'heure en temps réel il faut un module RTC 
 
-## ATTENTION:
-### On est très en retard par rapport au planning initial.
 
 ## Objectif de la séance 3
 1. Trouver le bon module RTC compatible avec le micocontroleur choisi <-- on a plutôt chercher à comprendre le module RTC
@@ -103,6 +101,12 @@ Ajouter un contrepoids pour limiter les vibrations
 1. Test avec les petits moteurs
 2. Changement de STM32F303K8 --> STM32G431KBT6
 3. DEbut du schématic de Kicad avec la STM 32 adaptée
+
+## Objectif de la séance 4
+1. ...
+
+## Ressources 
+https://m.youtube.com/watch?v=QOkp9amAs68
 
 
 ### Contacts
