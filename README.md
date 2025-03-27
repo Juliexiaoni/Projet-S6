@@ -121,6 +121,14 @@ Ajouter un contrepoids pour limiter les vibrations
 4. Finalisation du PCB
 5. Réaliser un premier test avec les LED allumés (prototype complet)
 
+### Recapitulatid seance 5
+
+### Objectif séance 6
+
+### Recapitulatif séance 6
+
+### Objectifs séance 7
+
 ## Ressources 
 https://m.youtube.com/watch?v=QOkp9amAs68
 https://wiki.st.com/stm32mcu/wiki/Getting_started_with_RTC
