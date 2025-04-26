@@ -129,6 +129,18 @@ Ajouter un contrepoids pour limiter les vibrations
 
 ### Objectifs séance 7
 
+### Récapitulatif séance 8
+ 1. PCB entièrement fini sur Kicad
+ 2. test de la vitesse de rotation du moteur choisi → plus faible qu'escompté mais suffisant pour voir une image (test du laser rouge)
+ 3. changeant de choix d'alimentation du microcontrolleur  (2 cellules de 3,5V )
+ 4. Avancées du code:
+
+### Objectif de la dernière séance (9)
+ 1. soudage du PCB
+ 2. montage global
+ 3. Test
+ + Si le temps cache pour la pile
+
 ## Ressources 
 https://m.youtube.com/watch?v=QOkp9amAs68
 https://wiki.st.com/stm32mcu/wiki/Getting_started_with_RTC
