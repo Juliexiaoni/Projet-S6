@@ -141,6 +141,9 @@ Ajouter un contrepoids pour limiter les vibrations
  3. Test
  + Si le temps cache pour la pile
 
+### Séance 9
+# Problème: pas de PCB car commande trop tard
+donc programme prévue: faire le prototypage complet
 ## Ressources 
 https://m.youtube.com/watch?v=QOkp9amAs68
 https://wiki.st.com/stm32mcu/wiki/Getting_started_with_RTC
