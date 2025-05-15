@@ -142,7 +142,7 @@ Ajouter un contrepoids pour limiter les vibrations
  + Si le temps cache pour la pile
 
 ### Séance 9
-# Problème: pas de PCB car commande trop tard
+** Problème: pas de PCB car commande trop tard**
 donc programme prévue: faire le prototypage complet
 ## Ressources 
 https://m.youtube.com/watch?v=QOkp9amAs68
